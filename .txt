@@ -1,0 +1,3 @@
+instalar ubuntu
+upgrade wsl2
+instalar vscode: Plugins=>[vscoderemote, docker, scala, metals, python, jupyter, atlassian]
